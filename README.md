@@ -1,7 +1,7 @@
 ## Hi there, I'm Poornachandran 👋
 
-### About Me 🧑‍💼
- I am dedicated software developer with nearly two years of experience in **Java and SQL**. I have solid foundation in **backend development and database management**, complemented by my completion of **GitHub Foundation Certificates**. my technical skills are enhanced by my ability to solve complex problems and work  collaboratively within a team. I am currently seeking opportunities to expand my expertise in software development and contribute to innovative projects. My carrer goal is to become a lead  developer, specializing in creating robust and scalable applications.
+ ### About Me 🧑‍💼
+ 🍃 I am dedicated software developer with nearly two years of experience in **Java and SQL**.<br> 🍃 I have solid foundation in **backend development and database management**, complemented by my completion of **GitHub Foundation Certificates**. <br> 🍃 My technical skills are enhanced by my ability to solve complex problems and work  collaboratively within a team. I am currently seeking opportunities to expand my expertise in software development and contribute to innovative projects. <br> 🍃 My carrer goal is to become a lead  developer, specializing in creating robust and scalable applications.
 
 ### Experience 💼
 
@@ -29,17 +29,18 @@ the team to comprehend and address their requirements effectively.
 internship.
 
 ### EDUCATION 🧑‍🎓
-#### BACHELOR OF ENGINEERING (May 2022) 
-*Electronics and Communication Engineering, CGPA – 8.3*
-###### Nandha Engineering College (Autonomous)         *Perundurai, Erode -52.*
+**BACHELOR OF ENGINEERING (May 2022)** <br>
+*Nandha Engineering College (Autonomous)*   -      _Perundurai, Erode -52._ <br>
+*Electronics and Communication Engineering, CGPA – 8.3* <br>
+
 
 
 ### CERTIFICATIONS 📜
-- #### GitHub Foundation Certificate
-###### _Issuing Organization: GitHub | Date Issued: 07/2024 | Certificate URL: https://www.credly.com/badges/754f8b8e-7bc5-4ad3-86b9-1ab6f97eb314/public_url_
+- **GitHub Foundation Certificate**
+ _Issuing Organization: GitHub | Date Issued: 07/2024 <br> Certificate URL: https://www.credly.com/badges/754f8b8e-7bc5-4ad3-86b9-1ab6f97eb314/public_url_
 
 ### PROJECTS 👨‍💻
-**_Train Reservation Ticket Management using Spring Frame work_** in Cognizant Internship
+- **_Train Reservation Ticket Management using Spring Frame work_** in Cognizant Internship
 
 ### SKILLS </>
 - Core Java

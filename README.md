@@ -1,7 +1,8 @@
-## Hi there, I'm Poornachandran 👋
+## Hi there, I'm Poornachandran 👋  
+ <a href="https://www.linkedin.com/in/thechandru-subramaniya">LinkedIn</a>
 
  ### About Me 🧑‍💼
- 🍃 I am dedicated software developer with nearly two years of experience in **Java and SQL**.<br> 🍃 I have solid foundation in **backend development and database management**, complemented by my completion of **GitHub Foundation Certificates**. <br> 🍃 My technical skills are enhanced by my ability to solve complex problems and work  collaboratively within a team. I am currently seeking opportunities to expand my expertise in software development and contribute to innovative projects. <br> 🍃 My carrer goal is to become a lead  developer, specializing in creating robust and scalable applications.
+ 🍃 I am dedicated software developer with nearly two years of experience in **Java and SQL**.<br> 🍃 I have solid foundation in **backend development and database management**, complemented by my completion of <a href="https://www.credly.com/badges/754f8b8e-7bc5-4ad3-86b9-1ab6f97eb314/public_url_">**GitHub Foundation Certificates**</a>.  <br> 🍃 My technical skills are enhanced by my ability to solve complex problems and work  collaboratively within a team. I am currently seeking opportunities to expand my expertise in software development and contribute to innovative projects. <br> 🍃 My carrer goal is to become a lead  developer, specializing in creating robust and scalable applications.
 
 ### Experience 💼
 

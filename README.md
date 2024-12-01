@@ -2,21 +2,21 @@
  <a href="https://www.linkedin.com/in/thechandru-subramaniya">LinkedIn</a>
 
  ### About Me 🧑‍💼
- 🍃 I am dedicated software developer with nearly two years of experience in **Java and SQL**.<br> 🍃 I have solid foundation in **backend development and database management**, complemented by my completion of <a href="https://www.credly.com/badges/754f8b8e-7bc5-4ad3-86b9-1ab6f97eb314/public_url_">**GitHub Foundation Certificates**</a>.  <br> 🍃 My technical skills are enhanced by my ability to solve complex problems and work  collaboratively within a team. I am currently seeking opportunities to expand my expertise in software development and contribute to innovative projects. <br> 🍃 My carrer goal is to become a lead  developer, specializing in creating robust and scalable applications.
+ I am a Junior Software Engineer with 2+ years of experience in developing robust Java-based applications. Skilled in Java, Spring Boot, microservices, and frontend technologies such as React.js. I have a track record of improving application performance and enhancing system stability. I excel at problem-solving, collaborating with teams, and delivering high-quality software solutions.
 
 ### Experience 💼
-
 #### Junior Software Engineer 
 ###### _Cognizant | Nov 2023 – Present | Coimbatore, Tamilnadu – Hybrid_
-- Performed impact analysis and implemented code changes.
-- Created sub-tasks based on stories and updated them in Jira.
-- Experienced in using PgAdmin for PostgreSQL, Jira for management, and Putty and WinSCP
-tools.
-- Regularly work with PostgreSQL and JDBC as part of my daily tasks.
-- Communicated with onsite clients to understand the requirement collaboratively with
-team.
+- Developed and maintained Java web-based applications using Spring Boot and microservices, leading to a 90%
+improvement in application performance.
+- Designed and implemented RESTful APIs for microservices communication, enhancing scalability and contributing
+to 80% of backend functionality.
+- In front-end development using React.js, managing 70% of front-end work for better user experience. Conducted
+thorough error analysis, achieving 85% efficiency in resolving application issues.
+- Managed bug fixing and troubleshooting, resolving 90% of critical issues for improved system stability
+
 #### Program Analyst Trainee 
- ###### _Cognizant | Nov 2022 – Nov 2023 | Coimbatore, Tamilnadu – Hybrid_
+###### _Cognizant | Nov 2022 – Nov 2023 | Coimbatore, Tamilnadu – Hybrid_
 - Monitoring: Monitoring the automated reports, promptly generating ad-hoc reports in
 case of issues.
 - Report Generation: Developed queries and generated reports in Excel format using
@@ -24,46 +24,46 @@ PostgreSQL and Java, adeptly modifying queries to align with client requirements
 - Collaborative Communication: Engaged with onsite clients, working collaboratively with
 the team to comprehend and address their requirements effectively.
 #### Intern 
-###### _Cognizant | Feb 2022 –Jul 2022 | Remote_
-- During intern Trained in Java, SQL, HTML, CSS, JavaScript and JUnit.
-- Developed a Spring Boot web application for train ticket reservations at the end of the
-internship.
+###### _Cognizant | Feb 2022 –Jul 2022 | Bangalore_
+- Monitored and checked automated reports, fixing 95% of issues through custom reports.
+- Generated and customized 100% of client reports in Excel, improving SQL query performance by 30%.
+- Performed impact analysis, increasing system efficiency and reducing errors by 25%.
+- Created and managed tasks in Jira based on user stories, ensuring timely completion of tasks.
+- Worked with PostgreSQL and JDBC daily, improving database interaction.
 
 ### EDUCATION 🧑‍🎓
 **BACHELOR OF ENGINEERING (May 2022)** <br>
 *Nandha Engineering College (Autonomous)*   -      _Perundurai, Erode -52._ <br>
 *Electronics and Communication Engineering, CGPA – 8.3* <br>
 
-
-
 ### CERTIFICATIONS 📜
 - **GitHub Foundation Certificate**
  _Issuing Organization: GitHub | Date Issued: 07/2024 <br> Certificate URL: https://www.credly.com/badges/754f8b8e-7bc5-4ad3-86b9-1ab6f97eb314/public_url_
+
+- **React JS Assessment Completion in Cognizant** <br>
+  Completed an assessment focused on React.js, demonstrating proficiency in core concepts and practical skills related to building user interfaces and managing component lifecycles. The assessment included multiple-choice questions covering topics such as: React component architectureState management and propsHooks (useState, useEffect)Component lifecycle methodsHandling events and formsIntegration with RESTful APIs
+
+<img src="https://github.com/poornachandran-chandru/My_Learning/blob/Coding_References/React/React%20Assessment.png">
+
+Skills: React.js, JavaScript, Frontend Development, Web Development <br>
+
+- **Japanese Language: Introduction to Japanese Conversation**
+_Issuing Organization: Alison | Date Issued: May 2020 <br> Certificate URL: https://alison.com/certification/check/fed48c90cc_
 
 ### PROJECTS 👨‍💻
 - **_Train Reservation Ticket Management using Spring Frame work_** in Cognizant Internship
 
 ### SKILLS </>
-- Core Java
-- Postgresql
-- Junit
-- JDBC
-- Linux
-- HTML
-- CSS
-- Git
-- GitHub
+- **Programming Language & Frameworks** – Java, Spring Boot, React.
+- **Web & API Development** – HTML, CSS, RESTful API
+- **Database & Database Tools** – PostgreSQL, JDBC, PgAdmin
+- **Development Tools & Utilities** – Intellij Idea, Spring Tool Suite, Postman, Visual Studio Code, Git, PuTTY, WinSCP, Linux
 
-### TOOLS ⚙️
-- Putty
-- Win SCP
-- PgAdmin
-- Spring Tool Suite
-- Git
-- GitHub
-- Postman
-- Jira
-- Eclipse
+### LANGUAGES
+- English
+- Tamil
+-  Kannada
+- Japanese (Basic Level – N5)
 
 
 

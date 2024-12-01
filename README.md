@@ -15,7 +15,7 @@ to 80% of backend functionality.
 thorough error analysis, achieving 85% efficiency in resolving application issues.
 - Managed bug fixing and troubleshooting, resolving 90% of critical issues for improved system stability
 
-#### Program Analyst Trainee 
+#### Software Engineer Trainee 
 ###### _Cognizant | Nov 2022 – Nov 2023 | Coimbatore, Tamilnadu – Hybrid_
 - Monitoring: Monitoring the automated reports, promptly generating ad-hoc reports in
 case of issues.
@@ -43,7 +43,7 @@ the team to comprehend and address their requirements effectively.
 - **React JS Assessment Completion in Cognizant** <br>
   Completed an assessment focused on React.js, demonstrating proficiency in core concepts and practical skills related to building user interfaces and managing component lifecycles. The assessment included multiple-choice questions covering topics such as: React component architectureState management and propsHooks (useState, useEffect)Component lifecycle methodsHandling events and formsIntegration with RESTful APIs
 
-<img src="https://github.com/poornachandran-chandru/My_Learning/blob/Coding_References/React/React%20Assessment.png">
+<img src="https://github.com/poornachandran-chandru/My_Learning/blob/Coding_References/React/React%20Assessment.png" width="300">
 
 Skills: React.js, JavaScript, Frontend Development, Web Development <br>
 

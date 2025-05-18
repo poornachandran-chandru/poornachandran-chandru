@@ -2,7 +2,7 @@
  <a href="https://www.linkedin.com/in/thechandru-subramaniya">LinkedIn</a>
 
  ### About Me 🧑‍💼
- I am a Junior Software Engineer with 2+ years of experience in developing robust Java-based applications. Skilled in Java, Spring Boot, microservices, and frontend technologies such as React.js. I have a track record of improving application performance and enhancing system stability. I excel at problem-solving, collaborating with teams, and delivering high-quality software solutions.
+ I am a Junior Software Engineer with 2.5 + years of experience in developing robust Java-based applications. Skilled in Java, Spring Boot, microservices, and frontend technologies such as React.js. I have a track record of improving application performance and enhancing system stability. I excel at problem-solving, collaborating with teams, and delivering high-quality software solutions.
 
 ### Experience 💼
 #### Junior Software Engineer 
@@ -25,12 +25,8 @@ PostgreSQL and Java, adeptly modifying queries to align with client requirements
 the team to comprehend and address their requirements effectively.
 #### Intern 
 ###### _Cognizant | Feb 2022 –Jul 2022 | Bangalore_
-- Monitored and checked automated reports, fixing 95% of issues through custom reports.
-- Generated and customized 100% of client reports in Excel, improving SQL query performance by 30%.
-- Performed impact analysis, increasing system efficiency and reducing errors by 25%.
-- Created and managed tasks in Jira based on user stories, ensuring timely completion of tasks.
-- Worked with PostgreSQL and JDBC daily, improving database interaction.
-
+- Trained in Java, SQL, HTML, CSS and Spring Boot during internship.
+- Developed a Spring Boot web application for train ticket reservations.
 ### EDUCATION 🧑‍🎓
 **BACHELOR OF ENGINEERING (May 2022)** <br>
 *Nandha Engineering College (Autonomous)*   -      _Perundurai, Erode -52._ <br>
